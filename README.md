@@ -3,7 +3,7 @@
 ## Description
 
 ## Table of Contents
-[Description](#description)
+* List item[Description](#description)
 [Table of Contents](#table-of-contents)
 [Installation](#installation)
 [Usage](#usage)
