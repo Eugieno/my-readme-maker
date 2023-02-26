@@ -1,6 +1,7 @@
 # my-readme-maker
-
+![MIT](https://img.shields.io/github/license/Eugieno/my-readme-maker)
 ## Description
+
 
 ## Table of Contents
 * [Description](#description)
