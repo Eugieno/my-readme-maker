@@ -1,5 +1,10 @@
 # my-readme-maker
-![MIT](https://img.shields.io/github/license/Eugieno/my-readme-maker)
+![MIT](https://img.shields.io/github/license/Eugieno/my-readme-maker) 
+![Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue)
+![]()
+![]()
+![]()
+
 ## Description
 
 
