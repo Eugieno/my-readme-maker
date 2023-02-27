@@ -1,9 +1,9 @@
-# my-project
+# title
   ![MIT](https://img.shields.io/github/license/Eugieno/my-readme-maker) 
   
   
   ## Description
-  descr
+  desc
   
   ## Table of Contents
   * [Description](#description)
@@ -23,7 +23,7 @@
   app
   
   ## License
-  Copyright &copy 2023 genex
+  Copyright &copy 2023 eugene
   
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -44,12 +44,12 @@
     SOFTWARE.
   
   ## Contributing
-  contr
+  authors
   
   ## Tests
   test
   
   ## Questions
-  Feel free to contact me for additional questions and I will get back to you  return
-  Email: (akin@gmail.com)[#]   return
+  Feel free to contact me for additional questions and I will get back to you  
+  Email: (eugeneakinson@gmail.com)[#]  
   Github profile: [Eugieno](https://github.com/Eugieno)
