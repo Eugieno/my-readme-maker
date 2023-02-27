@@ -25,6 +25,7 @@ function generateMarkdown(data) {
   ${data.usage}
   
   ## License
+  Copyright 2023 ${data.name}
   ${data.license[2]}
   
   ## Contributing
@@ -34,7 +35,9 @@ function generateMarkdown(data) {
   ${data.test}
   
   ## Questions
-  ${data.question}
+  Feel free to contact me for additional questions and I will get back to you
+  Email: (${data.email})[#]
+  Github profile: [${data.github}](https://github.com/${data.github})
 `;
 }
 

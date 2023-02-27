@@ -44,7 +44,11 @@ const questions = [
                 return [userLicense.mitLicense.label, userLicense.mitLicense.badgeUrl, userLicense.mitLicense.notice]
             } else if (answer == 'Apache 2.0') {
                 return [userLicense.apacheLicense.label, userLicense.apacheLicense.badgeUrl, userLicense.apacheLicense.notice]
-            }
+            } else if (answer == 'GPL 3.0') {
+                return[userLicense.GPLLicense.label, userLicense.GPLLicense.badgeUrl, userLicense.GPLLicense.notice]
+            } else if (answer == 'BSD 3') {
+                return [userLicense.BSDLicense.label, userLicense.BSDLicense.badgeUrl, userLicense.BSDLicense.notice]
+            } 
           }
         },
         {
@@ -61,7 +65,17 @@ const questions = [
             type: 'input',
             message: 'Questions',
             name: 'question'
-          }
+          },
+          {
+            type: 'input',
+            message: 'Input your github username',
+            name: 'github'
+          },
+          {
+            type: 'input',
+            message: 'Input your contact email address',
+            name: 'email'
+          },
 
 ];
 
