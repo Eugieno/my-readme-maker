@@ -4,8 +4,7 @@
 My readme maker is CLI based app that automatically generate a professional readme file for a user's project based on the user's response to specific questions asked, built with node.js, jS and inquiry package
 
 ## Installation
-
-
+Make sure you have node installed on your local machine
 
 ## Usage
 * Download the directory unto your local machine
@@ -39,3 +38,18 @@ Your contribution is welcomed on this project. To contribute, please follow thes
 Feel free to contact me for additional questions and I will get back to you  
   Email: [eugeneakinson@gmail.com ](#)       
   Github profile: [Eugieno](https://github.com/Eugieno)
+
+## Reflection
+This project was completed at the end of my 11th week atthe University of Birmingham bootcamp in FE web dev. 
+
+The main goal of this project was to apply the knowledge gained working with node.js and specifically inquirer package,during the week. 
+
+I had little or no challege in executing each of the acceptance criteria for this project. The most enjoyable part was researching to obtain little pieces of information to manipulate markdown files; such as how to create a badge in readme.md fie, how to add a block of code in readme file, how to add line breaks etc. 
+
+In summary, as a result of this project, I have improved my knowledge of the inquirer package and gained new techniques in formatting markdown files. 
+
+## Upcoming (New) Features
+In the immediate future, I plan to include the following features to extend the functonality and UI/UX of this web App.
+
+1. Images that illustrates the headings and gives the readme file more elegant visual
+2. More badges, such as a download badge; to monitor amount of downloads of my file and social link badges for easier contact.
