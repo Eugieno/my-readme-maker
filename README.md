@@ -30,10 +30,6 @@ Your contribution is welcomed on this project. To contribute, please follow thes
 6.	Issue that pull request!
 7.	Always add a README and/or requirements.txt to your added code.
 
-
-## Tests
-
-
 ## Questions
 Feel free to contact me for additional questions and I will get back to you  
   Email: [eugeneakinson@gmail.com ](#)       
@@ -49,7 +45,7 @@ I had little or no challege in executing each of the acceptance criteria for thi
 In summary, as a result of this project, I have improved my knowledge of the inquirer package and gained new techniques in formatting markdown files. 
 
 ## Upcoming (New) Features
-In the immediate future, I plan to include the following features to extend the functonality and UI/UX of this web App.
+In the immediate future, I plan to include the following features to extend the functonality and UI/UX of this CLI app.
 
 1. Images that illustrates the headings and gives the readme file more elegant visual
-2. More badges, such as a download badge; to monitor amount of downloads of my file and social link badges for easier contact.
+2. More badges, such as a download badge; to allow the user monitor the amount of the public's engagement with their project. 
