@@ -23,16 +23,16 @@
   a
   
   ## License
-  Copyright &copy; 2023 name        
-  This project is (MIT)[../assets/license-notice/MIT.md] licensed
+  Copyright &copy; 2023 jas       
+  This project is [MIT](../assets/license-notice/MIT.md) licensed
   
   ## Contributing
-  d
+  a
   
   ## Tests
   t
   
   ## Questions
   Feel free to contact me for additional questions and I will get back to you  
-  Email: (eugene@gmail.com)[#]  
+  Email: (akinson@gmail.com)[#]  
   Github profile: [Eugieno](https://github.com/Eugieno)

@@ -14,8 +14,6 @@ const apacheLicense = {
 }
 
 
-
-
 // GPL 3.0
 const GPLLicense = {
     label: 'GPL 3.0',
