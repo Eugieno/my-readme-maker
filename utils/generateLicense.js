@@ -18,7 +18,7 @@ const apacheLicense = {
 const GPLLicense = {
     label: 'GPL 3.0',
     badgeUrl: 'https://img.shields.io/badge/License-GPL%203.0-red',
-    notice: "`../my-readme-maker/assets/license-notice/GLP.md`"
+    notice: "../my-readme-maker/assets/license-notice/GPL.md"
 }
 
 // https://img.shields.io/badge/License-GPL%203.0-red

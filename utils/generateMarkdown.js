@@ -26,7 +26,7 @@ function generateMarkdown(data) {
   
   ## License
   Copyright &copy; 2023 ${data.name}       
-  This project is [${data.license[0]}]() licensed
+  This project is [${data.license[0]}](${data.license[2]}) licensed
   
   ## Contributing
   ${data.contributing}
