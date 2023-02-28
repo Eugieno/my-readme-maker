@@ -3,7 +3,7 @@
 const mitLicense = {
     label: 'MIT',
     badgeUrl: 'https://img.shields.io/github/license/Eugieno/my-readme-maker',
-    notice: "`../assets/license-notice/MIT.md`"
+    notice: "../assets/license-notice/MIT.md"
 }
 
 // Apache 2.0
