@@ -73,7 +73,7 @@ const questions = [
           },
           {
             type: 'input',
-            message: 'Enter the name of your readmefile (e.g., README, readme, MYREADME',
+            message: 'Enter the name of your readmefile (e.g., README, readme, MYREADME)',
             name: 'fileName'
           }
 
