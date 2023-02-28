@@ -3,14 +3,14 @@
 const mitLicense = {
     label: 'MIT',
     badgeUrl: 'https://img.shields.io/github/license/Eugieno/my-readme-maker',
-    notice: "../assets/license-notice/MIT.md"
+    notice: "../my-readme-maker/assets/license-notice/MIT.md"
 }
 
 // Apache 2.0
 const apacheLicense = {
     label: 'Apache 2.0',
     badgeUrl: 'https://img.shields.io/badge/License-Apache%202.0-blue',
-    notice: "../assets/license-notice/apache.md"
+    notice: "../my-readme-maker/assets/license-notice/apache.md"
 }
 
 
@@ -18,7 +18,7 @@ const apacheLicense = {
 const GPLLicense = {
     label: 'GPL 3.0',
     badgeUrl: 'https://img.shields.io/badge/License-GPL%203.0-red',
-    notice: "`../assets/license-notice/GLP.md`"
+    notice: "`../my-readme-maker/assets/license-notice/GLP.md`"
 }
 
 // https://img.shields.io/badge/License-GPL%203.0-red
@@ -27,7 +27,7 @@ const GPLLicense = {
 const BSDLicense = {
     label: 'BSD 3',
     badgeUrl: 'https://img.shields.io/badge/License-BSD%203-yellow',
-    notice: "../assets/license-notice/BSD.md"
+    notice: "../my-readme-maker/assets/license-notice/BSD.md"
 }
 // https://img.shields.io/badge/License-BSD%203-yellow
 

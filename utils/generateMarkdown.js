@@ -36,7 +36,7 @@ function generateMarkdown(data) {
   
   ## Questions
   Feel free to contact me for additional questions and I will get back to you  
-  Email: (${data.email})[#]  
+  Email: [${data.email}](#)       
   Github profile: [${data.github}](https://github.com/${data.github})
 `;
 }

@@ -1,9 +1,9 @@
 # t
-  ![MIT](https://img.shields.io/github/license/Eugieno/my-readme-maker) 
+  ![Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue) 
   
   
   ## Description
-  d
+  b 
   
   ## Table of Contents
   * [Description](#description)
@@ -20,11 +20,11 @@
   g
   
   ## Usage
-  a
+  app
   
   ## License
-  Copyright &copy; 2023 jas       
-  This project is [MIT](../my-readme-maker/assets/license-notice/MIT.md) licensed
+  Copyright &copy; 2023 name       
+  This project is [Apache 2.0](../my-readme-maker/assets/license-notice/apache.md) licensed
   
   ## Contributing
   a
@@ -34,5 +34,5 @@
   
   ## Questions
   Feel free to contact me for additional questions and I will get back to you  
-  Email: (akinson@gmail.com)[#]  
+  Email: [eugene@gmail.com](#)       
   Github profile: [Eugieno](https://github.com/Eugieno)

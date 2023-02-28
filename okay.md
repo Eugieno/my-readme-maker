@@ -3,7 +3,7 @@
   
   
   ## Description
-  d
+  be
   
   ## Table of Contents
   * [Description](#description)
@@ -17,22 +17,22 @@
   
   
   ## Installation
-  g
+  i
   
   ## Usage
-  a
+  u
   
   ## License
-  Copyright &copy; 2023 jas       
-  This project is [MIT](../my-readme-maker/assets/license-notice/MIT.md) licensed
+  Copyright &copy; 2023 name        
+  This project is [MIT](../assets/license-notice/MIT.md) licensed
   
   ## Contributing
   a
   
   ## Tests
-  t
+  te
   
   ## Questions
   Feel free to contact me for additional questions and I will get back to you  
-  Email: (akinson@gmail.com)[#]  
+  Email: [eugene@gmail.com](#)
   Github profile: [Eugieno](https://github.com/Eugieno)
