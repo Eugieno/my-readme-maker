@@ -53,7 +53,7 @@ const questions = [
         },
         {
           type: 'input',
-          message: 'Who are the contributing authors?',
+          message: 'Write the guidelines for contributing to your project',
           name: 'contributing'
         },
         {

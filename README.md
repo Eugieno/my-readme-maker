@@ -1,36 +1,44 @@
 # my-readme-maker
-![MIT](https://img.shields.io/github/license/Eugieno/my-readme-maker) 
-![Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue)
-![GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-red)
-![BSD 3](https://img.shields.io/badge/License-BSD%203-yellow)
 
 ## Description
-
-
-## Table of Contents
-* [Description](#description)
-* [Table of Contents](#table-of-contents)
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
-
+My readme maker is CLI based app that automatically generate a professional readme file for a user's project based on the user's response to specific questions asked, built with node.js, jS and inquiry package
 
 ## Installation
 
 
+
 ## Usage
+* Download the directory unto your local machine
+* Open the directory via your command line tool 
+* Run the code 
+
+```node index```
+
+* Answer the questions following.
+* At the end, you have the option to save your readme file with your preferred filename
+
+Below is a quick demo of the app:
 
 
 ## License
+[MIT](../my-readme-maker/LICENSE)
 
 
 ## Contributing
+Your contribution is welcomed on this project. To contribute, please follow these guide;
+1.	Fork the repository and create your branch from main.
+2.	If you've added code that should be tested, add tests.
+3.	If you've changed APIs, update the documentation.
+4.	Ensure the test suite passes.
+5.	Make sure your code lints.
+6.	Issue that pull request!
+7.	Always add a README and/or requirements.txt to your added code.
 
 
 ## Tests
 
 
 ## Questions
+Feel free to contact me for additional questions and I will get back to you  
+  Email: [eugeneakinson@gmail.com ](#)       
+  Github profile: [Eugieno](https://github.com/Eugieno)
