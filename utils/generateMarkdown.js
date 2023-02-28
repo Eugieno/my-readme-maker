@@ -25,7 +25,7 @@ function generateMarkdown(data) {
   ${data.usage}
   
   ## License
-  Copyright &copy 2023 ${data.name}
+  Copyright &copy; 2023 ${data.name}
   ${data.license[2]}
   
   ## Contributing

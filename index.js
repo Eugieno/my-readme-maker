@@ -11,7 +11,7 @@ console.log(userLicense.apacheLicense.notice)
 const questions = [
     {
         type: 'input',
-        message: 'What is your name?',
+        message: 'What is your Full Name (e.g., FirstName LastName)',
         name: 'name'
       },
       {
@@ -63,11 +63,6 @@ const questions = [
           },
           {
             type: 'input',
-            message: 'Questions',
-            name: 'question'
-          },
-          {
-            type: 'input',
             message: 'Input your github username',
             name: 'github'
           },
@@ -76,13 +71,18 @@ const questions = [
             message: 'Input your contact email address',
             name: 'email'
           },
+          {
+            type: 'input',
+            message: 'Enter the name of your readmefile (e.g., README, readme, MYREADME',
+            name: 'fileName'
+          }
 
 ];
 
 // function to write README file
 function writeToFile(fileName, data) {
     return fs.writeFile(path.join(process.cwd(),fileName),data, (err) =>
-    err ? console.log(err) : console.log('Success!')
+    err ? console.log(err) : console.log('Readme successfully generated!')
     )
 }
 
@@ -91,7 +91,7 @@ function init() {
     inquirer
       .prompt(questions)
       .then((data) => {
-        const filename = `${data.name.toLowerCase().split(' ').join('')}.md`;
+        const filename = `${data.fileName}.md`;
 
         writeToFile(filename, generateMarkdown(data))
       });
