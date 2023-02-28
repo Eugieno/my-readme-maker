@@ -15,6 +15,8 @@ Make sure you have node installed on your local machine
 
 Below is a quick demo of the app:
 
+![demo](../my-readme-maker/assets/images/ezgif.com-video-to-gif.gif)
+
 
 ## License
 [MIT](https://github.com/Eugieno/my-readme-maker/LICENSE)
