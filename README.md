@@ -10,10 +10,7 @@ My readme maker is CLI based app that automatically generate a professional read
 ## Usage
 * Download the directory unto your local machine
 * Open the directory via your command line tool 
-* Run the code 
-
-```node index```
-
+* In your command line, run the code  ```node index```
 * Answer the questions following.
 * At the end, you have the option to save your readme file with your preferred filename
 
@@ -21,7 +18,7 @@ Below is a quick demo of the app:
 
 
 ## License
-[MIT](../my-readme-maker/LICENSE)
+[MIT](https://github.com/Eugieno/my-readme-maker/LICENSE)
 
 
 ## Contributing
