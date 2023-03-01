@@ -13,9 +13,9 @@ Make sure you have node installed on your local machine
 * Answer the questions following.
 * At the end, you have the option to save your readme file with your preferred filename
 
-Below is a quick demo of the app:
+Below is a screenshot of the app in use:
 
-![demo](../my-readme-maker/assets/images/ezgif.com-video-to-gif.gif)
+![demo](../my-readme-maker/assets/images/app-screen-shot.JPG)
 
 
 ## License
