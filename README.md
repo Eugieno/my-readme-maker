@@ -15,7 +15,7 @@ Make sure you have node installed on your local machine
 
 Below is a screenshot of the app in use:
 
-![demo](../my-readme-maker/assets/images/app-screen-shot.JPG)
+![demo](./assets/images/app-screen-shot.JPG)
 
 
 ## License
