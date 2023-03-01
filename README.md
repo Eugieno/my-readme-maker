@@ -1,13 +1,13 @@
 # my-readme-maker
 
 ## Description
-My readme maker is CLI based app that automatically generate a professional readme file for a user's project based on the user's response to specific questions asked, built with node.js, jS and inquiry package
+My readme maker is a CLI based app that automatically generate a professional readme file for a user's project based on the user's response to specific questions asked, built with node.js, jS and the inquirer package.
 
 ## Installation
 Make sure you have node installed on your local machine
 
 ## Usage
-* Download the directory unto your local machine
+* Download or clone the directory unto your local machine
 * Open the directory via your command line tool 
 * In your command line, run the code  ```node index```
 * Answer the questions following.
