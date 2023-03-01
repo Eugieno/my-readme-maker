@@ -38,11 +38,11 @@ Feel free to contact me for additional questions and I will get back to you
   * Github profile: [Eugieno](https://github.com/Eugieno)
 
 ## Reflection
-This project was completed at the end of my 11th week atthe University of Birmingham bootcamp in FE web dev. 
+This project was completed at the end of my 11th week at the University of Birmingham bootcamp in FE web dev. 
 
 The main goal of this project was to apply the knowledge gained working with node.js and specifically inquirer package,during the week. 
 
-I had little or no challege in executing each of the acceptance criteria for this project. The most enjoyable part was researching to obtain little pieces of information to manipulate markdown files; such as how to create a badge in readme.md fie, how to add a block of code in readme file, how to add line breaks etc. 
+I had little or no challege in executing each of the acceptance criteria for this project. The most enjoyable part was reading inquirer and markdown file documentations, reviewing other developers readme files for inspiration and researching bits of information on the web on how to optimise the quality of a readme file; Specifically, I have learned the following; how to create a badge in readme.md file, how to add a block of code in readme file, how to add line breaks and many others. 
 
 In summary, as a result of this project, I have improved my knowledge of the inquirer package and gained new techniques in formatting markdown files. 
 
