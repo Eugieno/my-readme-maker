@@ -34,8 +34,8 @@ Your contribution is welcomed on this project. To contribute, please follow thes
 
 ## Questions
 Feel free to contact me for additional questions and I will get back to you  
-  *Email: [eugeneakinson@gmail.com ](#)       
-  *Github profile: [Eugieno](https://github.com/Eugieno)
+  * Email: [eugeneakinson@gmail.com ](#)       
+  * Github profile: [Eugieno](https://github.com/Eugieno)
 
 ## Reflection
 This project was completed at the end of my 11th week atthe University of Birmingham bootcamp in FE web dev. 
